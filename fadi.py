@@ -1,1 +1,1 @@
-import MANIOFFLINE
+import ('MANIOFFLINE')
